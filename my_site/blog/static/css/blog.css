@@ -1,0 +1,50 @@
+h1{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+  font-family: 'Berkshire Swash', cursive;
+}
+
+li{
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+a{
+  font-family: 'Vidaloka', serif;
+}
+
+.techfont{
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 1.5em;
+  margin-bottom: 2px;
+}
+
+.bigbrand{
+  font-size: 1.5em;
+}
+
+.postdate{
+  text-align: center;;
+}
+
+.posttitle{
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 3em;
+  text-align: center;
+}
+
+.postcontent{
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 1.5em;
+}
+
+.centerstage{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn-comment{
+  position: absolute;
+  right: 0px;
+}
